@@ -18,5 +18,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### ✍️ Random Dev Joke
+### 🤣 Random Dev Joke
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
